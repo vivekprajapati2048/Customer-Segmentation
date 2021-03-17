@@ -8,5 +8,5 @@ This repository contains the project of Customer Segmentation which is an Unsupe
 4) FROZEN: annual spending (m.u.)on frozen products (Continuous)
 5) DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products (Continuous)
 6) DELICATESSEN: annual spending (m.u.)on and delicatessen products (Continuous);
-7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel (Nominal)
-8) REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal)
+7) CHANNEL: customer Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel (Nominal)
+8) REGION: customer Region - Lisnon, Oporto or Other (Nominal)
